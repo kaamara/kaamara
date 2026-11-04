@@ -19,6 +19,7 @@
     <td valign="top" width="33%">
       <h3>Tools</h3>
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" />
     </td>
   </tr>
 </table>
