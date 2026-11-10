@@ -23,6 +23,7 @@
       <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" /></a>
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" /></a>
       <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="48" /></a>
+      <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="48" /></a>
     </td>
   </tr>
 </table>
